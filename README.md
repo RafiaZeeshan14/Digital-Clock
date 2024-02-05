@@ -1,5 +1,8 @@
 # Digital Clock Using JS And Tailwind
 
+## Live Demo
+https://the-digitised-clock.netlify.app/
+
 ## Description
 This project is a digital clock application built using JavaScript for the functionality 
 And Tailwind CSS for the styling. 
@@ -18,4 +21,7 @@ Once the project is set up, you can view the digital clock and see the current t
 This project makes use of the following technologies:
 - JavaScript
 - Tailwind CSS
+
+# Preview
+![image](https://github.com/RafiaZeeshan14/Digital-Clock/assets/141746940/06800ab6-cd5a-433e-9bd7-5fd8fb737b5e)
 
