@@ -1,7 +1,8 @@
 # Digital Clock Using JS And Tailwind
 
 ## Description
-This project is a digital clock application built using JavaScript for the functionality and Tailwind CSS for the styling. 
+This project is a digital clock application built using JavaScript for the functionality 
+And Tailwind CSS for the styling. 
 The digital clock displays the current time and updates in real-time.
 
 ## Installation
